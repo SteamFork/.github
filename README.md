@@ -1,4 +1,4 @@
-SteamFork is an immutable Linux distribution that aims to be as SteamOS like as possible without sacrificing device compatibility.
+SteamFork is a personal project to create an immutable Linux distribution that is as SteamOS like as possible without sacrificing device compatibility.
 
 ## Downloads
 Download links for installation are available at the following url: [SteamFork.org](https://www.steamfork.org/steamfork-installer/), and updates are available OTA.
@@ -22,3 +22,11 @@ Like any Linux distribution, this project is not the work of one person.  It is 
 
 ## Support
 This distribution is made available for myself and others who may want to use it, however it is provided as-is.  Bug fix and feature PRs are always welcome.
+
+## Sources
+This project utilizes sources from SteamOS (release repositories), the unofficial Valve source repo, and AUR.
+
+* Valve package repository: `buildroot/pacman-build-*.conf`
+* evlaV Repository: https://gitlab.com/evlaV
+* Arch AUR repository: https://aur.archlinux.org/
+* HoloISO (which this project was based): https://github.com/HoloISO
