@@ -10,11 +10,11 @@ SteamFork is a Linux distribution that is made up of many open-source components
 | Manufacturer | Device | CPU / Architecture |
 | -- | -- | -- |
 | AYANEO | Air / Air Pro | Amd Ryzen 5 5560U / AMD Ryzen 7 5825U |
-| AYANEO | Air Plus | Amd Ryzen 7 6800U / |
-| AYANEO | AYANEO 2 | Amd Ryzen 7 6800U / |
-| AYANEO | AYANEO 2S | Amd Ryzen 7 7840U / |
+| AYANEO | Air Plus | Amd Ryzen 7 6800U |
+| AYANEO | AYANEO 2 | Amd Ryzen 7 6800U |
+| AYANEO | AYANEO 2S | Amd Ryzen 7 7840U |
 | Ayn | Loki Zero | AMD Athlon Silver 3050e |
-| Ayn | Loki Max | Amd Ryzen 7 6800U / |
+| Ayn | Loki Max | Amd Ryzen 7 6800U |
 
 ## Credits
 
