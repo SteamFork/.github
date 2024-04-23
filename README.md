@@ -4,6 +4,7 @@ SteamFork is a personal project to create an immutable Linux distribution that i
 Download links for installation are available at [SteamFork.org](https://www.steamfork.org/steamfork-installer/), and updates are available OTA.
 
 **SteamFork Installation Image:** [latest](https://www.steamfork.org/steamfork-images/steamfork-installer/steamfork-rel-latest-x86_64.iso)
+
 **SteamFork Image Checksum:** [latest](https://www.steamfork.org/steamfork-images/steamfork-installer/steamfork-rel-latest-x86_64.iso.sha256)
 
 ## Licenses
