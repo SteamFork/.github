@@ -1,7 +1,7 @@
 SteamFork is an immutable Linux distribution that aims to be as SteamOS like as possible without sacrificing device compatibility.
 
 ## Downloads
-Download links for installation are available in the [downloads](https://github.com/SteamFork/downloads) repository, and updates are available OTA.
+Download links for installation are available at the following url: [SteamFork.org](https://www.steamfork.org/steamfork-installer/), and updates are available OTA.
 
 ## Licenses
 SteamFork is a Linux distribution that is made up of many open-source components.  Components are provided under their respective licenses.  See [LICENSE.md](LICENSE.md) for details about this project's license.
