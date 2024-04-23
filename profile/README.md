@@ -7,7 +7,7 @@ Downloads are hosted at [SteamFork.org](https://www.steamfork.org/steamfork-imag
 SteamFork Installation Image: [ [LATEST](https://www.steamfork.org/steamfork-images/steamfork-installer/steamfork-rel-latest-x86_64.iso) ] [ [CHECKSUM](https://www.steamfork.org/steamfork-images/steamfork-installer/steamfork-rel-latest-x86_64.iso.sha256) ]
 
 ## Licenses
-SteamFork is a Linux distribution that is made up of many open-source components.  Components are provided under their respective licenses.  See [LICENSE.md](LICENSE.md) for details about this project's license.
+SteamFork is a Linux distribution that is made up of many open-source components, and each component is provided under their respective licenses.  Unless otherwise noted, the content of this project itself is made available under the terms of the MIT license.  See [LICENSE.md](LICENSE.md) for details.
 
 ## Device Support
 | Manufacturer | Device | CPU / Architecture |
