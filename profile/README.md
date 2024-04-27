@@ -23,6 +23,13 @@ SteamFork is a Linux distribution that is made up of many open-source components
 | Ayn | Loki Zero | AMD Athlon Silver 3050e | None |
 | Ayn | Loki Max | Amd Ryzen 7 6800U | None |
 
+### TDP Control
+For tdp management, switch to desktop mode and then install Decky Loader and Simple Decky TDP.
+| Source | Installation URL |
+| -- | -- |
+| [Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader) | `curl -L https://github.com/SteamDeckHomebrew/decky-installer/releases/latest/download/install_release.sh | sh` |
+| [Simple Decky TDP](https://github.com/aarron-lee/SimpleDeckyTDP) | `curl -L https://github.com/aarron-lee/SimpleDeckyTDP/raw/main/install.sh | sh` |
+
 ## Credits
 
 Like any Linux distribution, this project is not the work of one person.  It is the work of many persons all over the world who have developed the open source bits without which this project could not exist.  Special thanks to Valve for providing SteamOS, HoloISO which this project is based upon, ShadowBlip, JELOS, and developers and contributors all across the open source community.
