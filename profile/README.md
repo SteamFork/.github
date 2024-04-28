@@ -27,7 +27,7 @@ For tdp management, switch to desktop mode and then install Decky Loader and Sim
 | Source | Installation URL |
 | -- | -- |
 | [Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader) | ```curl -L https://github.com/SteamDeckHomebrew/decky-installer/releases/latest/download/install_release.sh \| sh``` |
-| [Simple Decky TDP](https://github.com/aarron-lee/SimpleDeckyTDP) | ```curl -L https://github.com/aarron-lee/SimpleDeckyTDP/raw/main/install.sh \| sh``` |
+| [Simple Decky TDP](https://github.com/SteamFork/SimpleDeckyTDP) | ```curl -L https://github.com/SteamFork/SimpleDeckyTDP/raw/main/install.sh \| sh``` |
 
 ## Credits
 
