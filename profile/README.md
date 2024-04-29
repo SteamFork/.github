@@ -19,12 +19,12 @@ SteamFork is a Linux distribution that is made up of many open-source components
 | Atari | VCS | AMD Ryzen R1606G  | None |
 | AYANEO | Air / Air Pro | Amd Ryzen 5 5560U / AMD Ryzen 7 5825U | None |
 | AYANEO | Air Plus | Amd Ryzen 7 6800U | None |
-| AYANEO | AYANEO 2S | Amd Ryzen 7 7840U | No S3<sub>1</sub>. |
-| AYANEO | Flip KB | Amd Ryzen 7 7840U | No S3</sub>. Touch input does not work yet.|
+| AYANEO | AYANEO 2S | Amd Ryzen 7 7840U | No S3<sup>1</sup>. |
+| AYANEO | Flip KB | Amd Ryzen 7 7840U | No S3</sup>. Touch input does not work yet.|
 | Ayn | Loki Max | Amd Ryzen 7 6800U | None |
 
 > [!NOTE]
-> <sub>1.</sub>New AMD based devices only support S0ix sleep.
+> <sup>1.</sup>New AMD based devices only support S0ix sleep.
 
 ### TDP Control
 For tdp management, switch to desktop mode and then install Decky Loader and Simple Decky TDP.
