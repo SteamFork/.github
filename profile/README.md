@@ -13,6 +13,12 @@ Downloads are hosted at [SteamFork.org](https://www.steamfork.org/steamfork-imag
 ## Licenses
 SteamFork is a Linux distribution that is made up of many open-source components, and each component is provided under its respective license.  Unless otherwise noted, the content of this project itself is made available under the terms of the MIT license.  See [LICENSE](LICENSE) for details.
 
+## Features
+* Full SteamOS UI/UX, including desktop mode.
+* Power management optimizations ported from [JustEnoughLinuxOS](https://www.jelos.org).
+* Improved fan curves on supported devices.
+* RGB disabled by default on Ayaneo and Ayn devices.
+
 ## Device Support
 | Manufacturer | Device | CPU / Architecture | Known Issues |
 | -- | -- | -- | -- |
@@ -35,7 +41,7 @@ For tdp management, switch to desktop mode and then install Decky Loader and Sim
 
 ## Credits
 
-Like any Linux distribution, this project is not the work of one person.  It is the work of many persons all over the world who have developed the open source bits without which this project could not exist.  Special thanks to Valve for providing SteamOS, HoloISO which this project is based upon, ShadowBlip, JELOS, and developers and contributors all across the open source community.
+Like any Linux distribution, this project is not the work of one person.  It is the work of many persons all over the world who have developed the open source bits without which this project could not exist.  Special thanks to Valve for providing SteamOS, HoloISO which this project is based upon, ShadowBlip, JELOS, ChimeraOS, and developers and contributors all across the open source community.
 
 ## Support
 This distribution is made available for myself and others who may want to use it, however it is provided as-is.  Bug fix and feature PRs are always welcome.
@@ -45,5 +51,5 @@ This project utilizes sources from SteamOS (release repositories), the unofficia
 
 * Valve package repository: `buildroot/pacman-build-*.conf`
 * evlaV Repository: https://gitlab.com/evlaV
-* Arch AUR repository: https://aur.archlinux.org/
+* Arch AUR repository: https://aur.archlinux.org
 * HoloISO (which this project was based): https://github.com/HoloISO
