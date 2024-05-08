@@ -9,14 +9,23 @@ Downloads are hosted at [SteamFork.org](https://www.steamfork.org/steamfork-imag
 | -- | -- | -- |
 | Stable | [LATEST](https://www.steamfork.org/steamfork-images/steamfork-installer/steamfork-rel-latest-x86_64.iso) | [CHECKSUM](https://www.steamfork.org/steamfork-images/steamfork-installer/steamfork-rel-latest-x86_64.iso.sha256) |
 
-## Licenses
-SteamFork is a Linux distribution that is made up of many open-source components, and each component is provided under its respective license.  Unless otherwise noted, the content of this project itself is made available under the terms of the MIT license.  See [LICENSE](LICENSE) for details.
-
 ## Features
 * Full SteamOS UI/UX, including desktop mode.
 * Power management optimizations ported from [JustEnoughLinuxOS](https://www.jelos.org).
 * Improved fan curves on supported devices.
 * RGB disabled by default on Ayaneo and Ayn devices.
+
+## Screenshots
+
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/SteamFork/.github/main/profile/.images/20240507161726_1.jpg"/></td>
+    <td><img src="https://raw.githubusercontent.com/SteamFork/.github/main/profile/.images/20240507161721_1.jpg"/></td>
+  </tr>
+</table>
+
+## Licenses
+SteamFork is a Linux distribution that is made up of many open-source components, and each component is provided under its respective license.  Unless otherwise noted, the content of this project itself is made available under the terms of the MIT license.  See [LICENSE](LICENSE) for details.
 
 ## Device Support
 | Manufacturer | Device | CPU / Architecture | Known Issues |
