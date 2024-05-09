@@ -31,7 +31,7 @@ SteamFork is a Linux distribution that is made up of many open-source components
 | Manufacturer | Device | CPU / Architecture | Known Issues |
 | -- | -- | -- | -- |
 | Atari | VCS | AMD Ryzen R1606G  | None |
-| AYANEO | Air / Air Pro | Amd Ryzen 5 5560U / AMD Ryzen 7 5825U | None |
+| AYANEO | Air / Air Pro | Amd Ryzen 5 5560U / AMD Ryzen 7 5825U | EDID bug sometimes prevents display from working on boot (sleep/resume to correct), and breaks GPU performance mode.|
 | AYANEO | Air Plus | Amd Ryzen 7 6800U | None |
 | AYANEO | AYANEO 2S | Amd Ryzen 7 7840U | Must enable sleep in firmware<sup>1</sup>. |
 | AYANEO | Flip KB | Amd Ryzen 7 7840U | Must enable sleep in firmware<sup>1</sup>. Touch input does not work yet.|
