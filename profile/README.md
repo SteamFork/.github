@@ -11,7 +11,7 @@ Downloads are hosted at [SteamFork.org](https://www.steamfork.org/steamfork-imag
 
 ## Features
 * Full SteamOS UI/UX, including desktop mode.
-* Power management optimizations ported from [JustEnoughLinuxOS](https://www.jelos.org).
+* Power management optimizations ported from [JustEnoughLinuxOS](https://github.com/JustEnoughLinuxOS).
 * Improved fan curves on supported devices.
 * RGB disabled by default on Ayaneo and Ayn devices.
 
