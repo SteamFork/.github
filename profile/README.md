@@ -40,6 +40,9 @@ SteamFork is a Linux distribution that is made up of many open-source components
 > [!NOTE]
 > <sup>1 </sup>New AMD based devices from Ayaneo do not support sleep due to an incorrect firmware setting.  This setting is locked down and must be enabled using a third party helper.  Follow the process from @ChimeraOS to enable sleep [ [here](https://github.com/ChimeraOS/chimeraos/wiki/Community-Guides#enabling-modern-sleep-on-7000-series-amd-hardware) ].
 
+### Installation
+To install SteamFork, flash the bootable image to a USB device and then follow the procedure for your device to boot from removable media.  From the installer desktop, open "Install SteamFork" and then follow the prompts to install to your device.  When complete, close the installer, and shut down the device.  Remove the installation media, and then power the device on to boot into SteamOS.
+
 ### TDP Control
 For tdp management, switch to desktop mode and then install Decky Loader and Simple Decky TDP.
 | Source | Installation URL |
