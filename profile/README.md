@@ -50,7 +50,7 @@ Sponsoring a device is a commitment to maintaining support for your device by va
 $ sudo -s
 # steamfork_quirk_generator --help
 ```
-4. Create a pull request to the [SteamFork Device Support](https://github.com/SteamFork/steamfork-device-support) project with your new addition.
+4. Create a pull request to the [SteamFork Device Support](https://github.com/SteamFork/distribution/tree/main/PKGBUILD/steamfork-device-support) package with your new addition.
 5. Open and take ownership of any issues specific to your device on the [SteamFork Bug Tracker](https://github.com/SteamFork/bugtracker).
 6. When ready to begin sunsetting support for your device, generate and PR new quirk with the `--supported false` property.
 
