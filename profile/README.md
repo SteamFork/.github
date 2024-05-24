@@ -41,7 +41,7 @@ SteamFork is available for a variety of devices.  Devices without sponsors are u
 > <sup>1 </sup> Sponsored devices are fully supported by its maintainer.  Support for unsponsored devices may vary. <sup>2 </sup>New AMD based devices from Ayaneo do not support sleep due to an incorrect firmware setting.  This setting is locked down and must be enabled using a third party helper.  Follow the process from @ChimeraOS to enable sleep [ [here](https://github.com/ChimeraOS/chimeraos/wiki/Community-Guides#enabling-modern-sleep-on-7000-series-amd-hardware) ].
 
 ### Sponsorship
-Sponsoring a device is a commitment to maintaining support for your device by validating, testing, and bugfixing any issues that may arrise.  Adding support for a devices basic features is straight forward, however it can become far more technical to add support for features such as fan control.  If you are interested in sponsoring your device, follow the process below.
+Sponsoring a device is a commitment to maintaining support for your device by validating, testing, and bugfixing any issues that may arise.  Adding support for a device's basic features is straight forward, however, it can become far more technical to add support for features such as fan control.  If you are interested in sponsoring your device, follow the process below.
 
 1. Create a GitHub account if you do not already have one.
 2. Boot the SteamFork live image.
