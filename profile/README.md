@@ -15,6 +15,7 @@ SteamFork is a personal project to create an immutable Linux distribution that i
     <td><img src="https://raw.githubusercontent.com/SteamFork/.github/main/profile/.images/20240507161721_1.jpg"/></td>
   </tr>
 </table>
+
 ### Ayaneo 2S
 <table>
   <tr>
