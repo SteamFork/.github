@@ -8,11 +8,18 @@ SteamFork is a personal project to create an immutable Linux distribution that i
 * RGB disabled by default on Ayaneo and Ayn devices.
 
 ## Screenshots
-
+### Ayn Loki Max
 <table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/SteamFork/.github/main/profile/.images/20240507161726_1.jpg"/></td>
     <td><img src="https://raw.githubusercontent.com/SteamFork/.github/main/profile/.images/20240507161721_1.jpg"/></td>
+  </tr>
+</table>
+### Ayaneo 2S
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/SteamFork/.github/main/profile/.images/20240525-2s-1.jpg"/></td>
+    <td><img src="https://raw.githubusercontent.com/SteamFork/.github/main/profile/.images/20240525-2s-2.jpg"/></td>
   </tr>
 </table>
 
