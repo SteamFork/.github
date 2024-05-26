@@ -42,6 +42,7 @@ SteamFork is available for a variety of devices.  Devices without sponsors are u
 | Atari | VCS | [Fewtarius](https://github.com/fewtarius) | None |
 | AYANEO | Air / Air Pro | [Fewtarius](https://github.com/fewtarius) |EDID bug sometimes prevents display from working on boot (sleep/resume to correct), and breaks GPU performance mode.|
 | AYANEO | Air Plus | [Fewtarius](https://github.com/fewtarius) |None |
+| AYANEO | 1S | Unsponsored | Unknown |
 | AYANEO | 2 | Unsponsored | Unknown |
 | AYANEO | 2021, 2021 Pro, 2021 Retro Power | Unsponsored | Unknown |
 | AYANEO | 2S | [Fewtarius](https://github.com/fewtarius) | Must enable sleep in firmware<sup>2</sup>. |
@@ -52,6 +53,8 @@ SteamFork is available for a variety of devices.  Devices without sponsors are u
 | AYANEO | Next, Next Pro | Unsponsored | Unknown |
 | Ayn | Loki Max | [Fewtarius](https://github.com/fewtarius) | None |
 | Ayn | Loki Zero | Unsponsored | Unknown |
+| GPD | Win 4 | Community tested, unsponsored | None |
+| GPD | Win Mini | Community tested, unsponsored | None |
 
 > [!NOTE]
 > <sup>1 </sup> Sponsored devices are fully supported by its maintainer.  Support for unsponsored devices may vary. <sup>2 </sup>New AMD based devices from Ayaneo do not support sleep due to an incorrect firmware setting.  This setting is locked down and must be enabled using a third party helper.  Follow the process from @ChimeraOS to enable sleep [ [here](https://github.com/ChimeraOS/chimeraos/wiki/Community-Guides#enabling-modern-sleep-on-7000-series-amd-hardware) ].
