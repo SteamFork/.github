@@ -53,7 +53,7 @@ SteamFork is available for a variety of devices.  Devices without sponsors are u
 | AYANEO | Next, Next Pro | Unsponsored | Unknown |
 | Ayn | Loki Max | [Fewtarius](https://github.com/fewtarius) | None |
 | Ayn | Loki Zero | Unsponsored | Unknown |
-| GPD | Win 4 | Community tested, unsponsored | None |
+| GPD | Win 4 | [anthonycaccese](https://github.com/anthonycaccese) | None |
 | GPD | Win Mini | Community tested, unsponsored | None |
 
 > [!NOTE]
