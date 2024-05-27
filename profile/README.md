@@ -44,7 +44,7 @@ SteamFork is available for a variety of devices.  Devices without sponsors are u
 | Atari | VCS | [Fewtarius](https://github.com/fewtarius) | None |
 | AYANEO | 1S | Unsponsored | Unknown |
 | AYANEO | 2 | Unsponsored | Unknown |
-| AYANEO | 2021, 2021 Pro, 2021 Retro Power | Unsponsored | Unknown |
+| AYANEO | 2021 / Pro / Retro Power | Unsponsored | Unknown |
 | AYANEO | 2S | [Fewtarius](https://github.com/fewtarius) | Must enable sleep in firmware<sup>2</sup>. |
 | AYANEO | Air / Air Pro | [Fewtarius](https://github.com/fewtarius) |EDID bug sometimes prevents display from working on boot (sleep/resume to correct), and breaks GPU performance mode.|
 | AYANEO | Air Plus | [Fewtarius](https://github.com/fewtarius) |None |
