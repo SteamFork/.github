@@ -7,6 +7,7 @@ SteamFork is a personal project to create an immutable Linux distribution that i
 * Power management optimizations ported from [JustEnoughLinuxOS](https://github.com/JustEnoughLinuxOS).
 * Improved fan curves on supported devices.
 * RGB disabled by default on Ayaneo and Ayn devices.
+* Supports booting from removable media such as usb drives and micro sd cards.
 
 ## Screenshots
 ### Ayn Loki Max
