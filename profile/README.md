@@ -3,6 +3,7 @@ SteamFork is a personal project to create an immutable Linux distribution that i
 
 ## Features
 * Full SteamOS UI/UX, including desktop mode.
+* Minimal changes to SteamOS to preserve upstream compatibility.
 * Power management optimizations ported from [JustEnoughLinuxOS](https://github.com/JustEnoughLinuxOS).
 * Improved fan curves on supported devices.
 * RGB disabled by default on Ayaneo and Ayn devices.
