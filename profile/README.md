@@ -52,9 +52,9 @@ SteamFork is available for a variety of devices.  Devices without sponsors are u
 | AYANEO | Flip KB | [Fewtarius](https://github.com/fewtarius) | Must enable sleep in firmware<sup>2</sup>. Touch input does not work yet.|
 | AYANEO | Founder Edition | Unsponsored | Unknown |
 | AYANEO | Geek | Unsponsored | Unknown |
-| AYANEO | Next, Next Pro | Unsponsored | Unknown |
+| AYANEO | Next, Next Pro | Community tested, unsponsored | Unknown |
 | Ayn | Loki Max | [Fewtarius](https://github.com/fewtarius) | None |
-| Ayn | Loki Zero | Unsponsored | Unknown |
+| Ayn | Loki Zero | Community tested, unsponsored | Unknown |
 | GPD | Win 4 | [anthonycaccese](https://github.com/anthonycaccese) | None |
 | GPD | Win Mini | Community tested, unsponsored | None |
 
