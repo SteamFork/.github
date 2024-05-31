@@ -84,7 +84,7 @@ Downloads are hosted at [SteamFork.org](https://www.steamfork.org/steamfork-imag
 
 | Branch | URL | Checksum | Version |
 | -- | -- | -- | -- |
-| Stable | [LATEST](https://www.steamfork.org/steamfork-images/steamfork-installer/steamfork-rel-latest-x86_64.iso) | [CHECKSUM](https://www.steamfork.org/steamfork-images/steamfork-installer/steamfork-rel-latest-x86_64.iso.sha256) | [![Version](https://img.shields.io/github/release/SteamFork/distribution.svg?color=156C9C&label=latest%20version&style=flat-square)](https://github.com/SteamFork/distribution/releases/latest) |
+| Stable | [LATEST](https://www.steamfork.org/steamfork-images/steamfork-installer/steamfork-rel-latest-x86_64.iso) | [SHA256](https://www.steamfork.org/steamfork-images/steamfork-installer/steamfork-rel-latest-x86_64.iso.sha256) | [![Version](https://img.shields.io/github/release/SteamFork/distribution.svg?color=156C9C&label=&style=flat-square)](https://github.com/SteamFork/distribution/releases/latest) |
 
 > Note: Release notes are available on the [project's releases page](https://github.com/SteamFork/distribution/releases), however the download files only contain sources.
 
