@@ -78,7 +78,7 @@ $ sudo -s
 5. Open and take ownership of any issues specific to your device on the [SteamFork Bug Tracker](https://github.com/SteamFork/bugtracker).
 6. When ready to begin sunsetting support for your device, generate and PR new quirk with the `--supported false` property.
 
-## Downloads
+## Downloads [![Latest Version](https://img.shields.io/github/release/SteamFork/distribution.svg?color=156C9C&label=latest%20version&style=flat-square)](https://github.com/SteamFork/distribution/releases/latest)
 Downloads are hosted at [SteamFork.org](https://www.steamfork.org/steamfork-images/steamfork-installer/) and updates are available OTA.  A download link to the latest installation ISO can be
  found below.
 
