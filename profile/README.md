@@ -38,7 +38,7 @@ SteamFork is a project to create an immutable Linux distribution that is as Stea
 SteamFork is a Linux distribution that is made up of many open-source components, and each component is provided under its respective license.  Unless otherwise noted, the content of this project itself is made available under the terms of the MIT license.  See [LICENSE](LICENSE) for details.
 
 ## Device Support
-SteamFork is available for a variety of devices.  Devices without sponsors are untested may have unknown issues.
+SteamFork is available for a variety of devices including modern desktop and mini PCs that utilize an AMD APU or GPU.  Devices without sponsors are untested may have unknown issues.
 | Manufacturer | Product | Sponsor<sup>1</sup> | Known Issues |
 | -- | -- | -- | -- |
 | Atari | VCS | [Fewtarius](https://github.com/fewtarius) | None |
