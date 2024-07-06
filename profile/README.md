@@ -9,6 +9,8 @@ SteamFork is a project to create an immutable Linux distribution that is as Stea
 * RGB off by default, will flash on low battery (on supported devices).
 * Supports booting from removable media such as usb drives and micro sd cards (64GB minimum).
 
+Review the device support pages on the [SteamFork Wiki](https://wiki.steamfork.org) for device specific feature support.
+
 ## Screenshots
 ### Ayn Loki Max
 <table>
