@@ -39,6 +39,10 @@ Review the device support pages on the [SteamFork Wiki](https://wiki.steamfork.o
 ## Licenses
 SteamFork is a Linux distribution that is made up of many open-source components, and each component is provided under its respective license.  Unless otherwise noted, the content of this project itself is made available under the terms of the MIT license.  See [LICENSE](LICENSE) for details.
 
+## Community
+We use Discord for project related discussion.  Everyone is welcome to join our community by clicking the invitation link below.
+* [SteamFork Discord](https://discord.gg/AQ5rtQstCf)
+
 ## Device Support
 SteamFork is available for a variety of devices including modern desktop and mini PCs that utilize an AMD APU or GPU.  Devices without sponsors are untested may have unknown issues.
 | Manufacturer | Product | Sponsor<sup>1</sup> | Known Issues |
