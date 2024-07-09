@@ -99,13 +99,8 @@ To install SteamFork, flash the bootable image to a USB device and then follow t
 
 * SteamFork only supports systems with AMD APU/GPUs.
 
-## Power Management / TDP Control
-To enable management of the device TDP, switch to desktop mode and then install Decky Loader and Simple Decky TDP.
-| Source | Description | Installation URL |
-| -- | -- | -- |
-| [Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader) | Steam Deck plugin launcher | ```curl -L https://github.com/SteamDeckHomebrew/decky-installer/releases/latest/download/install_release.sh \| sh``` |
-| [Simple Decky TDP](https://github.com/SteamFork/SimpleDeckyTDP) | TDP control| ```curl -L https://github.com/SteamFork/SimpleDeckyTDP/raw/main/install.sh \| sh``` |
-| [HueSync](https://github.com/honjow/HueSync) | RGB control| ```curl -L https://raw.githubusercontent.com/honjow/huesync/main/install.sh \| sh``` |
+## Software
+For a full list of verified software including tools to help set up streaming services, improve power management, and even manage RGB on supported devices; visit the [verified software](https://wiki.steamfork.org/play/verified-software) page on the [SteamFork Wiki](https://wiki.steamfork.org).
 
 ## Credits
 
