@@ -100,7 +100,7 @@ To install SteamFork, flash the bootable image to a USB device and then follow t
 * SteamFork only supports systems with AMD APU/GPUs.
 
 ## Software
-For a full list of verified software including tools to help set up streaming services, improve power management, and even manage RGB on supported devices; visit the [verified software](https://wiki.steamfork.org/play/verified-software) page on the [SteamFork Wiki](https://wiki.steamfork.org).
+For a full list of verified software, including tools to help set up streaming services, improve power management, and even manage RGB on supported devices, visit the [verified software](https://wiki.steamfork.org/play/verified-software) page on the [SteamFork Wiki](https://wiki.steamfork.org).
 
 ## Credits
 
