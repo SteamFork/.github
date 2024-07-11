@@ -48,6 +48,7 @@ SteamFork is available for a variety of devices including modern desktop and min
 | Manufacturer | Product | Sponsor<sup>1</sup> | Known Issues |
 | -- | -- | -- | -- |
 | Atari | VCS | [Fewtarius](https://github.com/fewtarius) | None |
+| ANTEC | Core HS | Community tested, unsponsored | Unknown |
 | AYANEO | 1S | Unsponsored | Unknown |
 | AYANEO | 2 | Unsponsored | Unknown |
 | AYANEO | 2021 / Pro / Retro Power | Unsponsored | Unknown |
@@ -59,6 +60,7 @@ SteamFork is available for a variety of devices including modern desktop and min
 | AYANEO | Founder Edition | Unsponsored | Unknown |
 | AYANEO | Geek | Unsponsored | Unknown |
 | AYANEO | Next, Next Pro | Community tested, unsponsored | Unknown |
+| AYANEO | Slide | Community tested, unsponsored | Unknown |
 | Ayn | Loki Max | [Fewtarius](https://github.com/fewtarius) | None |
 | Ayn | Loki Zero | Community tested, unsponsored | Unknown |
 | GPD | Win 4 | [anthonycaccese](https://github.com/anthonycaccese) | None |
