@@ -92,7 +92,9 @@ Downloads are hosted at [SteamFork.org](https://www.steamfork.org/images/install
 
 | Branch | URL | Checksum | Version |
 | -- | -- | -- | -- |
-| Stable | Primary: [LATEST](https://www.steamfork.org/images/installer/steamfork-rel-latest-x86_64.iso) | [SHA256](https://www.steamfork.org/images/installer/steamfork-rel-latest-x86_64.iso.sha256) <br> Mirror: [LATEST](https://www2.steamfork.org/images/installer/steamfork-rel-latest-x86_64.iso) | [SHA256](https://www2.steamfork.org/images/installer/steamfork-rel-latest-x86_64.iso.sha256) <br> Mirror: [LATEST](https://www3.steamfork.org/images/installer/steamfork-rel-latest-x86_64.iso) | [SHA256](https://www3.steamfork.org/images/installer/steamfork-rel-latest-x86_64.iso.sha256) <br>| [![Version](https://img.shields.io/github/release/SteamFork/distribution.svg?color=156C9C&label=&style=flat-square)](https://github.com/SteamFork/distribution/releases/latest) |
+| Stable | Primary: [LATEST](https://www.steamfork.org/images/installer/steamfork-rel-latest-x86_64.iso) | [SHA256](https://www.steamfork.org/images/installer/steamfork-rel-latest-x86_64.iso.sha256) | [![Version](https://img.shields.io/github/release/SteamFork/distribution.svg?color=156C9C&label=&style=flat-square)](https://github.com/SteamFork/distribution/releases/latest) |
+|| Mirror: [LATEST](https://www2.steamfork.org/images/installer/steamfork-rel-latest-x86_64.iso) | [SHA256](https://www2.steamfork.org/images/installer/steamfork-rel-latest-x86_64.iso.sha256) ||
+|| Mirror: [LATEST](https://www3.steamfork.org/images/installer/steamfork-rel-latest-x86_64.iso) | [SHA256](https://www3.steamfork.org/images/installer/steamfork-rel-latest-x86_64.iso.sha256)||
 
 > Note: Release notes are available on the [project's releases page](https://github.com/SteamFork/distribution/releases), however the download files only contain sources.
 
