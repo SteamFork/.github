@@ -87,7 +87,7 @@ $ sudo -s
 6. When ready to begin sunsetting support for your device, generate and PR new quirk with the `--supported false` property.
 
 ## Downloads 
-Downloads are hosted at [SteamFork.org](https://www.steamfork.org/images/installer/) [ [MIRROR 1](https://www2.steamfork.org/images/installer/)[MIRROR 2](https://www3.steamfork.org/images/installer/)] and updates are available OTA.  A download link to the latest installation ISO can be
+Downloads are hosted at [SteamFork.org](https://www.steamfork.org/images/installer/) and updates are available OTA.  A download link to the latest installation ISO can be
  found below.
 
 | Branch | URL | Checksum | Version |
