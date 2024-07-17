@@ -49,12 +49,12 @@ SteamFork is available for a variety of devices including modern desktop and min
 | -- | -- | -- | -- |
 | ANTEC | Core HS | Community tested, unsponsored | Unknown |
 | Atari | VCS | [Fewtarius](https://github.com/fewtarius) | None |
-| AYANEO | 1S | Unsponsored | Unknown |
+| AYANEO | 1S | Community tested, Unsponsored | Unknown |
 | AYANEO | 2 | Unsponsored | Unknown |
 | AYANEO | 2021 / Pro / Retro Power | Unsponsored | Unknown |
 | AYANEO | 2S | [Fewtarius](https://github.com/fewtarius) | Must enable sleep in firmware<sup>2</sup>. |
 | AYANEO | Air / Air Pro | [Fewtarius](https://github.com/fewtarius) |EDID bug sometimes prevents display from working on boot (sleep/resume to correct), and breaks GPU performance mode.|
-| AYANEO | Air Plus | [Fewtarius](https://github.com/fewtarius) |None |
+| AYANEO | Air Plus | [Fewtarius](https://github.com/fewtarius) | None |
 | AYANEO | Flip DS | Unsponsored | Unknown |
 | AYANEO | Flip KB | [Fewtarius](https://github.com/fewtarius) | Must enable sleep in firmware<sup>2</sup>. Touch input does not work yet.|
 | AYANEO | Founder Edition | Unsponsored | Unknown |
