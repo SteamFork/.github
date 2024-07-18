@@ -49,7 +49,7 @@ SteamFork is available for a variety of devices including modern desktop and min
 | -- | -- | -- |
 | ANTEC | Core HS<sup>2</sup> | Community Verified |
 | Atari | VCS | [Fewtarius](https://github.com/fewtarius) |
-| AYANEO | 1S<sup>2</sup> | Community Verified, Unsponsored |
+| AYANEO | 1S<sup>2</sup> | Community Verified |
 | AYANEO | 2 | Unsponsored |
 | AYANEO | 2021 / Pro / Retro Power | Unsponsored |
 | AYANEO | 2S<sup>2</sup> | [Fewtarius](https://github.com/fewtarius) |
