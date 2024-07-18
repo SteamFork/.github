@@ -67,7 +67,7 @@ SteamFork is available for a variety of devices including modern desktop and min
 | GPD | Win Mini | Community Verified |
 
 > [!NOTE]
-> <sup>1 </sup> Sponsored devices are fully supported by its maintainer.  Support for unsponsored devices may vary.
+> <sup>1 </sup> Sponsored devices are fully supported by its maintainer.  Support for unsponsored and community verified devices may vary.
 > <sup>2 </sup>New AMD 7000 series devices do not support S3 sleep due to an incorrect firmware setting.  This setting is locked down and must be enabled using a third party helper.  Follow the process from [ChimeraOS](https://github.com/ChimeraOS) to enable sleep [ [here](https://github.com/ChimeraOS/chimeraos/wiki/Community-Guides#enabling-modern-sleep-on-7000-series-amd-hardware) ].
 
 ### Documentation
