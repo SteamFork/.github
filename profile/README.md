@@ -45,30 +45,30 @@ We use Discord for project related discussion.  Everyone is welcome to join our 
 
 ## Device Support
 SteamFork is available for a variety of devices including modern desktop and mini PCs that utilize an AMD APU or GPU.  Devices without sponsors are untested may have unknown issues.
-| Manufacturer | Product | Sponsor<sup>1</sup> |
+| Manufacturer | Product | Sponsor <sup>1</sup> |
 | -- | -- | -- |
-| ANTEC | Core HS<sup>2</sup> | Community Verified |
+| ANTEC | Core HS <sup>2</sup> | Community Verified |
 | Atari | VCS | [Fewtarius](https://github.com/fewtarius) |
-| AYANEO | 1S<sup>2</sup> | Community Verified |
+| AYANEO | 1S <sup>2</sup> | Community Verified |
 | AYANEO | 2 | Unsponsored |
 | AYANEO | 2021 / Pro / Retro Power | Unsponsored |
-| AYANEO | 2S<sup>2</sup> | [Fewtarius](https://github.com/fewtarius) |
+| AYANEO | 2S <sup>2</sup> | [Fewtarius](https://github.com/fewtarius) |
 | AYANEO | Air / Air Pro | [Fewtarius](https://github.com/fewtarius) |
 | AYANEO | Air Plus | [Fewtarius](https://github.com/fewtarius) |
-| AYANEO | Flip DS<sup>2</sup> | Unsponsored | 
-| AYANEO | Flip KB<sup>2</sup> | [Fewtarius](https://github.com/fewtarius) |
+| AYANEO | Flip DS <sup>2</sup> | Unsponsored | 
+| AYANEO | Flip KB <sup>2</sup> | [Fewtarius](https://github.com/fewtarius) |
 | AYANEO | Founder Edition | Unsponsored |
 | AYANEO | Geek | Unsponsored |
 | AYANEO | Next, Next Pro | Community Verified |
-| AYANEO | Slide<sup>2</sup> | Community Verified |
+| AYANEO | Slide <sup>2</sup> | Community Verified |
 | Ayn | Loki Max | [Fewtarius](https://github.com/fewtarius) |
 | Ayn | Loki Zero | Community Verified |
 | GPD | Win 4 | [anthonycaccese](https://github.com/anthonycaccese) |
 | GPD | Win Mini | Community Verified |
 
 > [!NOTE]
-> <sup>1 </sup> Sponsored devices are fully supported by its maintainer.  Support for unsponsored and community verified devices may vary.
-> <sup>2 </sup>New AMD 7000 series devices do not support S3 sleep due to an incorrect firmware setting.  This setting is locked down and must be enabled using a third party helper.  Follow the process from [ChimeraOS](https://github.com/ChimeraOS) to enable sleep [ [here](https://github.com/ChimeraOS/chimeraos/wiki/Community-Guides#enabling-modern-sleep-on-7000-series-amd-hardware) ].
+> 1. Sponsored devices are fully supported by its maintainer.  Support for unsponsored and community verified devices may vary.<br>
+> 2. New AMD 7000 series devices do not support S3 sleep due to an incorrect firmware setting.  This setting is locked down and must be enabled using a third party helper.  Follow the process from [ChimeraOS](https://github.com/ChimeraOS) to enable sleep [ [here](https://github.com/ChimeraOS/chimeraos/wiki/Community-Guides#enabling-modern-sleep-on-7000-series-amd-hardware) ].
 
 ### Documentation
 SteamFork documentation is hosted on our [Wiki](https://wiki.steamfork.org).  There you will find answers to [Frequently Asked Questions](https://wiki.steamfork.org/faqs/), [Build](https://wiki.steamfork.org/contribute/build/) and [Device Quirk](https://wiki.steamfork.org/contribute/quirks/) development instructions, and much more.
