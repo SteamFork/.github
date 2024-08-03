@@ -78,11 +78,7 @@ Sponsoring a device is a commitment to maintaining support for your device by va
 
 1. Create a GitHub account if you do not already have one.
 2. Boot the SteamFork live image.
-3. Create a device quirk using the quirk generator included.  Minimum requirements are gamescope resolution, and rotation if needed.
-```
-$ sudo -s
-# steamfork-quirk-generator --help
-```
+3. Create a device quirk using the [quirk creation tool](https://wiki.steamfork.org/contribute/quirks/) included with the distribution.  Minimum requirements are gamescope resolution, and rotation if needed.
 4. Create a pull request to the [SteamFork Device Support](https://github.com/SteamFork/distribution/tree/main/PKGBUILD/steamfork-device-support) package with your new addition.
 5. Open and take ownership of any issues specific to your device on the [SteamFork Bug Tracker](https://github.com/SteamFork/bugtracker).
 6. When ready to begin sunsetting support for your device, generate and PR new quirk with the `--supported false` property.
@@ -120,4 +116,4 @@ This project utilizes sources from SteamOS (release repositories), the unofficia
 * Valve package repository: `buildroot/pacman-build-*.conf`
 * evlaV Repository: https://gitlab.com/evlaV
 * Arch AUR repository: https://aur.archlinux.org
-* HoloISO (which this project was based): https://github.com/HoloISO
+* HoloISO (which this project was originally based): https://github.com/HoloISO
