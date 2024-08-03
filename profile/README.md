@@ -47,7 +47,7 @@ We use Discord for project related discussion.  Everyone is welcome to join our 
 SteamFork is available for a variety of devices including modern desktop and mini PCs that utilize an AMD APU or GPU.  Devices without sponsors are untested may have unknown issues.
 | Manufacturer | Product | Sponsor <sup>1</sup> |
 | -- | -- | -- |
-| ANTEC | Core HS <sup>2</sup> | Community Verified |
+| ANTEC | Core HS <sup>2</sup> | [Fewtarius](https://github.com/fewtarius) |
 | Atari | VCS | [Fewtarius](https://github.com/fewtarius) |
 | AYANEO | 1S <sup>2</sup> | Community Verified |
 | AYANEO | 2 | Unsponsored |
@@ -60,7 +60,7 @@ SteamFork is available for a variety of devices including modern desktop and min
 | AYANEO | Founder Edition | Unsponsored |
 | AYANEO | Geek | Unsponsored |
 | AYANEO | Next, Next Pro | Community Verified |
-| AYANEO | Slide <sup>2</sup> | Community Verified |
+| AYANEO | Slide <sup>2</sup> | [Fewtarius](https://github.com/fewtarius) |
 | Ayn | Loki Max | [Fewtarius](https://github.com/fewtarius) |
 | Ayn | Loki Zero | Community Verified |
 | GPD | Win 4 | [anthonycaccese](https://github.com/anthonycaccese) |
