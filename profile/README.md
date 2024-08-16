@@ -68,7 +68,7 @@ SteamFork is available for a variety of devices including modern desktop and min
 
 > [!NOTE]
 > 1. Sponsored devices are fully supported by its maintainer.  Support for unsponsored and community verified devices may vary.<br>
-> 2. New AMD 7000 series devices do not support S3 sleep and must be configured for Modern Standby + s0i3.  This setting is locked down on many Ayaneo devices and must be enabled using a third party helper.  Follow the process from [ChimeraOS](https://github.com/ChimeraOS) to enable sleep [ [here](https://github.com/ChimeraOS/chimeraos/wiki/Community-Guides#enabling-modern-sleep-on-7000-series-amd-hardware) ].
+> 2. New AMD 7000 series devices do not support S3 sleep and must be configured for Modern Standby + s0i3.  This setting is locked down on many Ayaneo devices and must be enabled using a third party helper.  Follow the [process on the Wiki](https://wiki.steamfork.org/troubleshooting/#enabling-modern-sleep-on-7000-series-amd-based-devices) to configure your device.
 
 ### Documentation
 SteamFork documentation is hosted on our [Wiki](https://wiki.steamfork.org).  There you will find answers to [Frequently Asked Questions](https://wiki.steamfork.org/faqs/), [Build](https://wiki.steamfork.org/contribute/build/) and [Device Quirk](https://wiki.steamfork.org/contribute/quirks/) development instructions, and much more.
