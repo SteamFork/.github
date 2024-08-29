@@ -47,6 +47,7 @@ We use Discord for project related discussion.  Everyone is welcome to join our 
 SteamFork is available for a variety of devices including modern desktop and mini PCs that utilize an AMD APU or GPU.  Devices without sponsors are untested may have unknown issues.
 | Manufacturer | Product | Sponsor <sup>1</sup> |
 | -- | -- | -- |
+| Anbernic | Win600 | [uejji](https://github.com/uejji) |
 | ANTEC | Core HS <sup>2</sup> | [Fewtarius](https://github.com/fewtarius) |
 | Atari | VCS | [Fewtarius](https://github.com/fewtarius) |
 | AYANEO | 1S <sup>2</sup> | Community Verified |
