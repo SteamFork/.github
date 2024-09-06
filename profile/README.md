@@ -112,7 +112,7 @@ Like any Linux distribution, this project is not the work of one person.  It is 
 This distribution is made available for myself and others who may want to use it, however it is provided as-is.  Bug fix and feature PRs are always welcome.
 
 ## Sources
-This project utilizes sources from SteamOS (release repositories), the unofficial Valve source repo, and AUR.
+In addition to sources developed by SteamFork, this project utilizes sources from SteamOS (release repositories), the unofficial Valve source repo, and AUR.
 
 * Valve package repository: `buildroot/pacman-build-*.conf`
 * evlaV Repository: https://gitlab.com/evlaV
