@@ -49,6 +49,7 @@ SteamFork is available for a variety of devices including modern desktop and min
 | -- | -- | -- |
 | Anbernic | Win600 | [uejji](https://github.com/uejji) |
 | ANTEC | Core HS <sup>2</sup> | [Fewtarius](https://github.com/fewtarius) |
+| ASUS | ROG Ally / Ally X | [flukejones](https://github.com/flukejones) |
 | Atari | VCS | [Fewtarius](https://github.com/fewtarius) |
 | AYANEO | 1S <sup>2</sup> | Community Verified |
 | AYANEO | 2 | Community Verified |
