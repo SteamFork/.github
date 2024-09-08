@@ -56,6 +56,7 @@ SteamFork is available for a variety of devices including modern desktop and min
 | AYANEO | 2021 / Pro / Retro Power | Unsponsored |
 | AYANEO | 2S <sup>2</sup> | [Fewtarius](https://github.com/fewtarius) |
 | AYANEO | Air / Air Pro | [Fewtarius](https://github.com/fewtarius) |
+| AYANEO | Air 1S | Community Verified |
 | AYANEO | Air Plus | [Fewtarius](https://github.com/fewtarius) |
 | AYANEO | Flip DS <sup>2</sup> | Unsponsored | 
 | AYANEO | Flip KB <sup>2</sup> | [Fewtarius](https://github.com/fewtarius) |
