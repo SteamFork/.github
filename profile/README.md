@@ -101,7 +101,7 @@ Downloads are hosted at [SteamFork.org](https://www.steamfork.org/images/install
 ### Installation
 To install SteamFork, flash the bootable image to a USB device and then follow the procedure for your device to boot from removable media.  From the live mode desktop, open the "Install SteamFork" application and then follow the prompts to install to your device.  When complete, close the installer, and shut down the device.  Remove the installation media, and then power the device on to boot into SteamOS.
 
-* SteamFork only supports systems with AMD APU/GPUs.
+* SteamFork is compatible with Intel and AMD based systems.  NVidia GPUs are not supported.
 
 ## Software
 For a full list of verified software, including tools to help set up streaming services, improve power management, and even manage RGB on supported devices, visit the [verified software](https://wiki.steamfork.org/play/verified-software) page on the [SteamFork Wiki](https://wiki.steamfork.org).
