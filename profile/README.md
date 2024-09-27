@@ -68,6 +68,7 @@ SteamFork is supported on sponsored devices listed below however it also works g
 | Ayn | Loki Zero | Community Verified |
 | GPD | Win 4 | [anthonycaccese](https://github.com/anthonycaccese) |
 | GPD | Win Mini | Community Verified |
+| MSI | Claw A1M | [uejji](https://github.com/uejji) |
 
 > [!NOTE]
 > 1. Sponsored devices are fully supported by its maintainer.  Support for unsponsored and community verified devices may vary.<br>
