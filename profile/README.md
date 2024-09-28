@@ -63,15 +63,17 @@ SteamFork is supported on sponsored devices listed below however it also works g
 | AYANEO | Founder Edition | Unsponsored |
 | AYANEO | Geek | Unsponsored |
 | AYANEO | Next, Next Pro | Community Verified |
-| AYANEO | Slide <sup>2</sup> | [Fewtarius](https://github.com/fewtarius) |
+| AYANEO | Slide <sup>2,3</sup> | [Fewtarius](https://github.com/fewtarius) |
 | Ayn | Loki Max | [Fewtarius](https://github.com/fewtarius) |
 | Ayn | Loki Zero | Community Verified |
 | GPD | Win 4 | [anthonycaccese](https://github.com/anthonycaccese) |
 | GPD | Win Mini | Community Verified |
+| MSI | Claw A1M <sup>3</sup> | [uejji](https://github.com/uejji) |
 
 > [!NOTE]
 > 1. Sponsored devices are fully supported by its maintainer.  Support for unsponsored and community verified devices may vary.<br>
 > 2. New AMD 7000 series devices do not support S3 sleep and must be configured for Modern Standby + s0i3.  This setting is locked down on many Ayaneo devices and must be enabled using a third party helper.  Follow the [process on the Wiki](https://wiki.steamfork.org/troubleshooting/#enabling-modern-sleep-on-7000-series-amd-based-devices) to configure your device.
+> 3. Support for these devices is still a work in progress.  Expect bugs or incomplete/missing features as support is being added.  Refer to the specific device's page on [the Wiki](https://wiki.steamfork.org/) for more information.
 
 ### Documentation
 SteamFork documentation is hosted on our [Wiki](https://wiki.steamfork.org).  There you will find answers to [Frequently Asked Questions](https://wiki.steamfork.org/faqs/), [Build](https://wiki.steamfork.org/contribute/build/) and [Device Quirk](https://wiki.steamfork.org/contribute/quirks/) development instructions, and much more.
