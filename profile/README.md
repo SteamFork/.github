@@ -61,7 +61,7 @@ SteamFork is supported on sponsored devices listed below however it also works g
 | AYANEO | Flip DS <sup>2</sup> | Unsponsored | 
 | AYANEO | Flip KB <sup>2</sup> | [Fewtarius](https://github.com/fewtarius) |
 | AYANEO | Founder Edition | Unsponsored |
-| AYANEO | Geek | Unsponsored |
+| AYANEO | Geek | Community Verified, thanks to [alexapple79](https://www.youtube.com/watch?v=4iBE-PUC_0Y). |
 | AYANEO | Next, Next Pro | Community Verified |
 | AYANEO | Slide <sup>2,3</sup> | [Fewtarius](https://github.com/fewtarius) |
 | Ayn | Loki Max | [Fewtarius](https://github.com/fewtarius) |
