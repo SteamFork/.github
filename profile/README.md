@@ -47,28 +47,24 @@ We use Discord for project related discussion.  Everyone is welcome to join our 
 SteamFork is supported on sponsored devices listed below however it also works great on modern laptops, desktops, and mini PCs with Intel and AMD processors and graphics.  Devices without sponsors are untested may have unknown issues.
 | Manufacturer | Product | Sponsor <sup>1</sup> |
 | -- | -- | -- |
-| Anbernic | Win600 | [uejji](https://github.com/uejji) |
-| ANTEC | Core HS <sup>2</sup> | [Fewtarius](https://github.com/fewtarius) |
-| ASUS | ROG Ally / Ally X | [flukejones](https://github.com/flukejones) |
-| Atari | VCS | [Fewtarius](https://github.com/fewtarius) |
-| AYANEO | 1S <sup>2</sup> | Community Verified |
+| Anbernic | [Win600](https://wiki.steamfork.org/devices/anbernic/win600) | [uejji](https://github.com/uejji) |
+| ANTEC | [Core HS](https://wiki.steamfork.org/devices/antec/core-hs) <sup>2</sup> | [Fewtarius](https://github.com/fewtarius) |
+| ASUS | [ROG Ally / Ally X](https://wiki.steamfork.org/devices/asus/rog-ally) | [flukejones](https://github.com/flukejones) |
+| Atari | [VCS](https://wiki.steamfork.org/devices/atari/vcs) | [Fewtarius](https://github.com/fewtarius) |
 | AYANEO | 2 | Community Verified |
-| AYANEO | 2021 / Pro / Retro Power | Unsponsored |
-| AYANEO | 2S <sup>2</sup> | [Fewtarius](https://github.com/fewtarius) |
-| AYANEO | Air / Air Pro | [Fewtarius](https://github.com/fewtarius) |
-| AYANEO | Air 1S | Community Verified |
-| AYANEO | Air Plus | [Fewtarius](https://github.com/fewtarius) |
-| AYANEO | Flip DS <sup>2</sup> | Unsponsored | 
-| AYANEO | Flip KB <sup>2</sup> | [Fewtarius](https://github.com/fewtarius) |
-| AYANEO | Founder Edition | Unsponsored |
-| AYANEO | Geek | Community Verified, thanks to [alexapple79](https://www.youtube.com/watch?v=4iBE-PUC_0Y). |
+| AYANEO | [2S](https://wiki.steamfork.org/devices/ayaneo/ayaneo-2s) <sup>2</sup> | [Fewtarius](https://github.com/fewtarius) |
+| AYANEO | [Air / Air Pro](https://wiki.steamfork.org/devices/ayaneo/air) | [Fewtarius](https://github.com/fewtarius) |
+| AYANEO | Air 1S <sup>2</sup> | Community Verified |
+| AYANEO | [Air Plus](https://wiki.steamfork.org/devices/ayaneo/air-plus) | [Fewtarius](https://github.com/fewtarius) |
+| AYANEO | [Flip KB](https://wiki.steamfork.org/devices/ayaneo/flip) <sup>2</sup> | [Fewtarius](https://github.com/fewtarius) |
+| AYANEO | Geek | Community Verified by [alexapple79](https://www.youtube.com/watch?v=4iBE-PUC_0Y) |
 | AYANEO | Next, Next Lite, Next Pro | Community Verified |
-| AYANEO | Slide <sup>2,3</sup> | [Fewtarius](https://github.com/fewtarius) |
-| Ayn | Loki Max | [Fewtarius](https://github.com/fewtarius) |
+| AYANEO | [Slide](https://wiki.steamfork.org/devices/ayaneo/slide) <sup>2,3</sup> | [Fewtarius](https://github.com/fewtarius) |
+| Ayn | [Loki Max](https://wiki.steamfork.org/devices/ayn/loki-max) | [Fewtarius](https://github.com/fewtarius) |
 | Ayn | Loki Zero | Community Verified |
-| GPD | Win 4 | [anthonycaccese](https://github.com/anthonycaccese) |
+| GPD | [Win 4](https://wiki.steamfork.org/devices/gpd/win4) | [anthonycaccese](https://github.com/anthonycaccese) |
 | GPD | Win Mini | Community Verified |
-| MSI | Claw A1M <sup>3</sup> | [uejji](https://github.com/uejji) |
+| MSI | [Claw A1M](https://wiki.steamfork.org/devices/msi/claw-a1m) <sup>3</sup> | [uejji](https://github.com/uejji) |
 
 > [!NOTE]
 > 1. Sponsored devices are fully supported by its maintainer.  Support for unsponsored and community verified devices may vary.<br>
