@@ -48,18 +48,18 @@ SteamFork is supported on sponsored devices listed below however it also works g
 | Manufacturer | Product | Sponsor <sup>1</sup> |
 | -- | -- | -- |
 | Anbernic | [Win600](https://wiki.steamfork.org/devices/anbernic/win600) | [uejji](https://github.com/uejji) |
-| ANTEC | [Core HS](https://wiki.steamfork.org/devices/antec/core-hs) <sup>2</sup> | [Fewtarius](https://github.com/fewtarius) |
+| ANTEC | Core HS <sup>2</sup> | Community Verified |
 | ASUS | [ROG Ally / Ally X](https://wiki.steamfork.org/devices/asus/rog-ally) | [flukejones](https://github.com/flukejones) |
 | Atari | [VCS](https://wiki.steamfork.org/devices/atari/vcs) | [Fewtarius](https://github.com/fewtarius) |
 | AYANEO | 2 | Community Verified |
 | AYANEO | [2S](https://wiki.steamfork.org/devices/ayaneo/ayaneo-2s) <sup>2</sup> | [Fewtarius](https://github.com/fewtarius) |
-| AYANEO | [Air / Air Pro](https://wiki.steamfork.org/devices/ayaneo/air) | [Fewtarius](https://github.com/fewtarius) |
+| AYANEO | Air / Air Pro | Community Verified |
 | AYANEO | Air 1S <sup>2</sup> | Community Verified |
 | AYANEO | [Air Plus](https://wiki.steamfork.org/devices/ayaneo/air-plus) | [Fewtarius](https://github.com/fewtarius) |
 | AYANEO | [Flip KB](https://wiki.steamfork.org/devices/ayaneo/flip) <sup>2</sup> | [Fewtarius](https://github.com/fewtarius) |
 | AYANEO | Geek | Community Verified by [alexapple79](https://www.youtube.com/watch?v=4iBE-PUC_0Y) |
 | AYANEO | Next, Next Lite, Next Pro | Community Verified |
-| AYANEO | [Slide](https://wiki.steamfork.org/devices/ayaneo/slide) <sup>2,3</sup> | [Fewtarius](https://github.com/fewtarius) |
+| AYANEO | Slide <sup>2</sup> | Community Verified |
 | Ayn | [Loki Max](https://wiki.steamfork.org/devices/ayn/loki-max) | [Fewtarius](https://github.com/fewtarius) |
 | Ayn | Loki Zero | Community Verified |
 | GPD | [Win 4](https://wiki.steamfork.org/devices/gpd/win4) | [anthonycaccese](https://github.com/anthonycaccese) |
