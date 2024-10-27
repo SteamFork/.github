@@ -52,15 +52,15 @@ SteamFork is supported on sponsored devices listed below however it also works g
 | ASUS | [ROG Ally / Ally X](https://wiki.steamfork.org/devices/asus/rog-ally) | [flukejones](https://github.com/flukejones) |
 | Atari | [VCS](https://wiki.steamfork.org/devices/atari/vcs) | [Fewtarius](https://github.com/fewtarius) |
 | AYANEO | 2 | Community Verified |
-| AYANEO | [2S](https://wiki.steamfork.org/devices/ayaneo/ayaneo-2s) <sup>2</sup> | [Fewtarius](https://github.com/fewtarius) |
+| AYANEO | 2S | Community Verified |
 | AYANEO | Air / Air Pro | Community Verified |
 | AYANEO | Air 1S <sup>2</sup> | Community Verified |
-| AYANEO | [Air Plus](https://wiki.steamfork.org/devices/ayaneo/air-plus) | [Fewtarius](https://github.com/fewtarius) |
+| AYANEO | [Air Plus](https://wiki.steamfork.org/devices/ayaneo/air-plus) | [uejji](https://github.com/uejji) |
 | AYANEO | [Flip KB](https://wiki.steamfork.org/devices/ayaneo/flip) <sup>2</sup> | [Fewtarius](https://github.com/fewtarius) |
 | AYANEO | Geek | Community Verified by [alexapple79](https://www.youtube.com/watch?v=4iBE-PUC_0Y) |
 | AYANEO | Next, Next Lite, Next Pro | Community Verified |
 | AYANEO | Slide <sup>2</sup> | Community Verified |
-| Ayn | [Loki Max](https://wiki.steamfork.org/devices/ayn/loki-max) | [Fewtarius](https://github.com/fewtarius) |
+| Ayn | Loki Max | Community Verified |
 | Ayn | Loki Zero | Community Verified |
 | GPD | [Win 4 6800U](https://wiki.steamfork.org/devices/gpd/win4-6800u) | [anthonycaccese](https://github.com/anthonycaccese) |
 | GPD | Win Mini | Community Verified |
