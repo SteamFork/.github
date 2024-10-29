@@ -50,7 +50,7 @@ SteamFork is supported on sponsored devices listed below however it also works g
 | Anbernic | [Win600](https://wiki.steamfork.org/devices/anbernic/win600) | [uejji](https://github.com/uejji) |
 | ANTEC | Core HS <sup>2</sup> | Community Verified |
 | ASUS | [ROG Ally / Ally X](https://wiki.steamfork.org/devices/asus/rog-ally) | [flukejones](https://github.com/flukejones) |
-| Atari | [VCS](https://wiki.steamfork.org/devices/atari/vcs) | [Fewtarius](https://github.com/fewtarius) |
+| Atari | VCS | Community Verified |
 | AYANEO | 2 | Community Verified |
 | AYANEO | 2S | Community Verified |
 | AYANEO | Air / Air Pro | Community Verified |
