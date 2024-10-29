@@ -54,7 +54,8 @@ SteamFork is supported on sponsored devices listed below however it also works g
 | AYANEO | 2 | Community Verified |
 | AYANEO | 2S | Community Verified |
 | AYANEO | Air / Air Pro | Community Verified |
-| AYANEO | Air 1S <sup>2</sup> | Community Verified |
+| AYANEO | Air 1S 7840 <sup>2</sup> | Community Verified |
+| AYANEO | [Air 1S 8840U](https://wiki.steamfork.org/devices/ayaneo/air-1s-8840u) | [winghugs](https://github.com/winghugs) |
 | AYANEO | [Air Plus 6800U](https://wiki.steamfork.org/devices/ayaneo/air-plus-6800u) | [uejji](https://github.com/uejji) |
 | AYANEO | [Flip KB](https://wiki.steamfork.org/devices/ayaneo/flip) <sup>2</sup> | [Fewtarius](https://github.com/fewtarius) |
 | AYANEO | Geek | Community Verified by [alexapple79](https://www.youtube.com/watch?v=4iBE-PUC_0Y) |
