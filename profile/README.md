@@ -45,7 +45,7 @@ We use Discord for project related discussion.  Everyone is welcome to join our 
 * [SteamFork Discord](https://discord.gg/AQ5rtQstCf)
 
 ## Device Support
-SteamFork is supported on sponsored devices listed below however it also works great on modern laptops, desktops, and mini PCs with Intel and AMD processors and graphics.  Devices without sponsors are untested may have unknown issues.
+SteamFork is supported on sponsored devices listed below however it also works great on modern laptops, desktops, and mini PCs with Intel and AMD processors and graphics.  Devices without sponsors are not actively tested by a dedicated maintainer and may have unknown issues.
 | Manufacturer | Product | Sponsor <sup>1</sup> |
 | -- | -- | -- |
 | Anbernic | [Win600](https://wiki.steamfork.org/devices/anbernic/win600) | [uejji](https://github.com/uejji) |
