@@ -53,7 +53,7 @@ SteamFork is supported on sponsored devices listed below however it also works g
 | ASUS | [ROG Ally / Ally X](https://wiki.steamfork.org/devices/asus/rog-ally) | [flukejones](https://github.com/flukejones) |
 | Atari | VCS | Community Verified |
 | AYANEO | 2 | Community Verified |
-| AYANEO | 2S <sup>2</sup> | [Fewtarius](https://github.com/fewtarius) |
+| AYANEO | 2S <sup>3</sup> | [Fewtarius](https://github.com/fewtarius) |
 | AYANEO | Air / Air Pro | Community Verified |
 | AYANEO | Air 1S (AMD 7840U) <sup>3</sup> | Community Verified |
 | AYANEO | [Air 1S (AMD 8840U)](https://wiki.steamfork.org/devices/ayaneo/air-1s-8840u) <sup>3</sup> | [winghugs](https://github.com/winghugs) |
