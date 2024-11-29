@@ -53,7 +53,7 @@ SteamFork is supported on sponsored devices listed below however it also works g
 | ASUS | [ROG Ally / Ally X](https://wiki.steamfork.org/devices/asus/rog-ally) | [flukejones](https://github.com/flukejones) |
 | Atari | VCS | Community Verified |
 | AYANEO | 2 | Community Verified |
-| AYANEO | 2S <sup>2</sup> | Community Verified |
+| AYANEO | 2S <sup>2</sup> | [Fewtarius](https://github.com/fewtarius) |
 | AYANEO | Air / Air Pro | Community Verified |
 | AYANEO | Air 1S (AMD 7840U) <sup>3</sup> | Community Verified |
 | AYANEO | [Air 1S (AMD 8840U)](https://wiki.steamfork.org/devices/ayaneo/air-1s-8840u) <sup>3</sup> | [winghugs](https://github.com/winghugs) |
@@ -62,7 +62,7 @@ SteamFork is supported on sponsored devices listed below however it also works g
 | AYANEO | Geek | Community Verified by [alexapple79](https://www.youtube.com/watch?v=4iBE-PUC_0Y) |
 | AYANEO | Next, Next Lite, Next Pro | Community Verified |
 | AYANEO | Slide <sup>2</sup> | Community Verified |
-| Ayn | Loki Max | Community Verified |
+| Ayn | Loki Max | [Fewtarius](https://github.com/fewtarius) |
 | Ayn | Loki Zero | Community Verified |
 | GPD | [Win 4 (AMD 6800U)](https://wiki.steamfork.org/devices/gpd/win4-6800u) | [anthonycaccese](https://github.com/anthonycaccese) |
 | GPD | Win 4 (AMD 7840U) | Community Verified by [Maeiourk](https://github.com/maeiourk) |
