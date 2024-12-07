@@ -14,7 +14,7 @@ SteamFork is a SteamOS-based operating system with improved hardware compatibili
 * Compatible Epic Games Store, GoG, and Amazon Prime Gaming via Heroic, available for installation in discover.
 * SteamOS is our upstream, making SteamFork the only active Linux gaming solution truly derived from SteamOS.
 
-Review the device support [table](https://github.com/SteamFork#device-support) below along with our [SteamFork Wiki](https://wiki.steamfork.org) for more information about our project.
+Review the device support [table](https://github.com/SteamFork#device-support) below along with our [Wiki](https://wiki.steamfork.org) for more information about our project.
 
 ## Screenshots
 ### Ayn Loki Max
