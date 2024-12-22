@@ -52,25 +52,25 @@ We use Discord for project related discussion.  Everyone is welcome to join our 
 SteamFork is supported on sponsored devices listed below however it also works great on modern laptops, desktops, and mini PCs with Intel and AMD processors and graphics.  Devices without sponsors are not actively tested by a dedicated maintainer and may have unknown issues.
 | Manufacturer | Product | Sponsor <sup>1</sup> |
 | -- | -- | -- |
-| Anbernic | [Win600](https://wiki.steamfork.org/devices/anbernic/win600) | [uejji](https://github.com/uejji) |
-| ANTEC | Core HS <sup>2</sup> | Community Verified |
+| Anbernic | [Win600](https://wiki.steamfork.org/devices/anbernic/win600) | Community Verified |
+| ANTEC | [Core HS](antec/core-hs.md) <sup>2</sup> | Community Verified |
 | ASUS | [ROG Ally / Ally X](https://wiki.steamfork.org/devices/asus/rog-ally) | [flukejones](https://github.com/flukejones) |
-| Atari | VCS | Community Verified |
-| AYANEO | 2 | Community Verified |
+| Atari | [VCS](atari/vcs.md) | Community Verified |
+| AYANEO | [2](ayaneo/ayaneo-2) | Community Verified |
 | AYANEO | [2S](https://wiki.steamfork.org/devices/ayaneo/ayaneo-2s) <sup>3</sup> | [Fewtarius](https://github.com/fewtarius) |
-| AYANEO | Air / Air Pro | Community Verified |
+| AYANEO | [Air / Air Pro](ayaneo/air.md) | Community Verified |
 | AYANEO | [Air 1S](https://wiki.steamfork.org/devices/ayaneo/air-1s) <sup>3</sup> | [winghugs](https://github.com/winghugs) |
 | AYANEO | [Air Plus (AMD 6800U)](https://wiki.steamfork.org/devices/ayaneo/air-plus-6800u) | [uejji](https://github.com/uejji) |
 | AYANEO | [Flip KB](https://wiki.steamfork.org/devices/ayaneo/flip-kb) <sup>2</sup> | [Fewtarius](https://github.com/fewtarius) |
 | AYANEO | Geek | Community Verified by [alexapple79](https://www.youtube.com/watch?v=4iBE-PUC_0Y) |
 | AYANEO | Next, Next Lite, Next Pro | Community Verified |
-| AYANEO | Slide <sup>2</sup> | Community Verified |
+| AYANEO | [Slide](ayaneo/slide.md) <sup>2</sup> | Community Verified |
 | Ayn | [Loki Max](https://wiki.steamfork.org/devices/ayn/loki-max) | [Fewtarius](https://github.com/fewtarius) |
-| Ayn | Loki Zero | Community Verified |
+| Ayn | [Loki Zero](ayn/loki-zero) | Community Verified |
 | GPD | [Win 4 (AMD 6800U)](https://wiki.steamfork.org/devices/gpd/win4-6800u) | [anthonycaccese](https://github.com/anthonycaccese) |
 | GPD | Win 4 (AMD 7840U) | Community Verified by [Maeiourk](https://github.com/maeiourk) |
 | GPD | Win Mini | Community Verified |
-| MSI | [Claw A1M](https://wiki.steamfork.org/devices/msi/claw-a1m) <sup>4</sup> | [uejji](https://github.com/uejji) |
+| MSI | [Claw A1M](https://wiki.steamfork.org/devices/msi/claw-a1m) <sup>4</sup> | Community Verified |
 
 > [!NOTE]
 > 1. Sponsored devices are fully supported by its maintainer.  Support for unsponsored and community verified devices may vary.<br>
