@@ -42,7 +42,7 @@ Review the device support [table](https://github.com/SteamFork#device-support) b
 </table>
 
 ## Licenses
-SteamFork is a Linux distribution that is made up of many open-source components, and each component is provided under its respective license.  Unless otherwise noted, the content of this project itself is made available under the terms of the MIT license.  See [LICENSE](LICENSE) for details.
+SteamFork is a Linux distribution that is made up of many open-source components, and each component is provided under its respective license.  Unless otherwise noted, the content of this project itself is made available under the terms of the MIT license.  See [LICENSE](https://github.com/SteamFork/distribution/blob/main/rootfs/steamfork/LICENSE) for details.
 
 ## Community
 We use Discord for project related discussion.  Everyone is welcome to join our community by clicking the invitation link below.
