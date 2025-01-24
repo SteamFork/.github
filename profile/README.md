@@ -73,6 +73,7 @@ SteamFork is supported on sponsored devices listed below however it also works g
 | GPD | Win 4 (AMD 7840U) | Community Verified by [Maeiourk](https://github.com/maeiourk) |
 | GPD | Win Mini | Community Verified |
 | MSI | [Claw A1M](https://wiki.steamfork.org/devices/msi/claw-a1m) | Community Verified |
+| ONEXPLAYER | Mini (Intel 1195G7) | Community Verified by Joex |
 
 > [!NOTE]
 > 1. Sponsored devices are fully supported by its maintainer.  Support for unsponsored and community verified devices may vary.<br>
