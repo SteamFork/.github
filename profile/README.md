@@ -62,7 +62,7 @@ SteamFork is supported on sponsored devices listed below however it also works g
 | AYANEO | [Air 1S](https://wiki.steamfork.org/devices/ayaneo/air-1s) <sup>3</sup> | [winghugs](https://github.com/winghugs) |
 | AYANEO | [Air Plus (AMD 6800U)](https://wiki.steamfork.org/devices/ayaneo/air-plus-6800u) | [uejji](https://github.com/uejji) |
 | AYANEO | [Flip DS](https://wiki.steamfork.org/devices/ayaneo/flip-ds) <sup>2,4</sup> | [uejji](https://github.com/uejji) |
-| AYANEO | [Flip KB](https://wiki.steamfork.org/devices/ayaneo/flip-kb) <sup>2</sup> | [Fewtarius](https://github.com/fewtarius) |
+| AYANEO | [Flip KB](https://wiki.steamfork.org/devices/ayaneo/flip-kb) <sup>2</sup> | Community Verified by [Fewtarius](https://github.com/fewtarius) |
 | AYANEO | Geek | Community Verified by [alexapple79](https://www.youtube.com/watch?v=4iBE-PUC_0Y) |
 | AYANEO | Next, Next Lite, Next Pro | Community Verified |
 | AYANEO | [Slide](ayaneo/slide.md) <sup>2</sup> | Community Verified |
