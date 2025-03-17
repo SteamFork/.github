@@ -74,6 +74,7 @@ SteamFork is supported on sponsored devices listed below however it also works g
 | GPD | Win Mini | Community Verified |
 | MSI | [Claw A1M](https://wiki.steamfork.org/devices/msi/claw-a1m) | Community Verified |
 | ONEXPLAYER | Mini (Intel 1195G7) | Community Verified by Joex |
+| ONEXPLAYER | OneXFly F1 Pro (AMD HX 370) | Community Verified by [Reiyume](https://github.com/reiyume) |
 
 > [!NOTE]
 > 1. Sponsored devices are fully supported by its maintainer.  Support for unsponsored and community verified devices may vary.<br>
