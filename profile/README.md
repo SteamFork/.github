@@ -72,6 +72,7 @@ SteamFork is supported on sponsored devices listed below however it also works g
 | GPD | [Win 4 (AMD 6800U)](https://wiki.steamfork.org/devices/gpd/win4-6800u) | [anthonycaccese](https://github.com/anthonycaccese) |
 | GPD | Win 4 (AMD 7840U) | Community Verified by [Maeiourk](https://github.com/maeiourk) |
 | GPD | Win Mini | Community Verified |
+| Lenovo | Legion Go <sup>5</sup> | [sydarn](https://github.com/sydarn)
 | MSI | [Claw A1M](https://wiki.steamfork.org/devices/msi/claw-a1m) | Community Verified |
 | ONEXPLAYER | Mini (Intel 1195G7) | Community Verified by Joex |
 | ONEXPLAYER | OneXFly F1 Pro (AMD HX 370) | Community Verified by [Reiyume](https://github.com/reiyume) |
@@ -81,6 +82,7 @@ SteamFork is supported on sponsored devices listed below however it also works g
 > 2. Some AMD 7000 series devices do not support S3 sleep and must be configured for Modern Standby + s0i3.  This setting is locked down on many Ayaneo devices and must be enabled using a third party helper.  Follow the [process on the Wiki](https://wiki.steamfork.org/troubleshooting/#enabling-modern-sleep-on-7000-series-amd-based-devices) to configure your device.
 > 3. Requires a BIOS update for modern sleep to work correctly.
 > 4. Support for these devices is still a work in progress.  Expect bugs or incomplete/missing features as support is being added.  Refer to the [specific device's page on the Wiki](https://wiki.steamfork.org/devices/) for more information.
+> 5. TDP and Fan is not yet controllable through software. Power profiles can however be changed directly by pressing `Legion + Y`.
 
 ### Documentation
 SteamFork documentation is hosted on our [Wiki](https://wiki.steamfork.org).  There you will find answers to [Frequently Asked Questions](https://wiki.steamfork.org/faqs/), [Build](https://wiki.steamfork.org/contribute/build/) and [Device Quirk](https://wiki.steamfork.org/contribute/quirks/) development instructions, and much more.
