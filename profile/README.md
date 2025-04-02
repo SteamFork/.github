@@ -98,19 +98,23 @@ Sponsoring a device is a commitment to maintaining support for your device by va
 6. When ready to begin sunsetting support for your device, generate and PR new quirk with the `--supported false` property.
 
 ## Downloads 
-Downloads are hosted at [SteamFork.org](https://www.steamfork.org/images/installer/) and updates are available OTA.  A download link to the latest installation ISO can be
- found below.
+Downloads are hosted at [SteamFork.org](https://www.steamfork.org/images/installer/) and updates are available OTA. Below are the download links for the stable (3.6) and testing (3.7) branches.
 
 | Branch | URL | Checksum | Version |
 | -- | -- | -- | -- |
-| Primary | [LATEST](https://www.steamfork.org/images/installer/steamfork-rel-latest-x86_64.iso) | [SHA256](https://www.steamfork.org/images/installer/steamfork-rel-latest-x86_64.iso.sha256) | [![Version](https://img.shields.io/github/release/SteamFork/distribution.svg?color=156C9C&label=&style=flat-square)](https://github.com/SteamFork/distribution/releases/latest) |
-| New York | [LATEST](https://www1.ny.steamfork.org/images/installer/steamfork-rel-latest-x86_64.iso) | [SHA256](https://www1.ny.steamfork.org/images/installer/steamfork-rel-latest-x86_64.iso.sha256) |||
-| Dallas | [LATEST](https://www1.da.steamfork.org/images/installer/steamfork-rel-latest-x86_64.iso) | [SHA256](https://www1.da.steamfork.org/images/installer/steamfork-rel-latest-x86_64.iso.sha256) |||
-| San Jose | [LATEST](https://www1.sj.steamfork.org/images/installer/steamfork-rel-latest-x86_64.iso) | [SHA256](https://www1.sj.steamfork.org/images/installer/steamfork-rel-latest-x86_64.iso.sha256) ||
-| Ashburn | [LATEST](https://www1.as.steamfork.org/images/installer/steamfork-rel-latest-x86_64.iso) | [SHA256](https://www1.as.steamfork.org/images/installer/steamfork-rel-latest-x86_64.iso.sha256) |||
-| Ashburn | [LATEST](https://www2.as.steamfork.org/images/installer/steamfork-rel-latest-x86_64.iso) | [SHA256](https://www2.as.steamfork.org/images/installer/steamfork-rel-latest-x86_64.iso.sha256) |||
+| Stable (3.6) | [LATEST](https://www.steamfork.org/images/installer/steamfork-rel-latest-x86_64.iso) | [SHA256](https://www.steamfork.org/images/installer/steamfork-rel-latest-x86_64.iso.sha256) | [![Version](https://img.shields.io/github/release/SteamFork/distribution.svg?color=156C9C&label=&style=flat-square)](https://github.com/SteamFork/distribution/releases/latest) |
+| Testing (3.7) | [LATEST](https://www.steamfork.org/images/installer/steamfork-testing-latest-x86_64.iso) | [SHA256](https://www.steamfork.org/images/installer/steamfork-testing-latest-x86_64.iso.sha256) | |
 
-> Note: Release notes are available on the [project's releases page](https://github.com/SteamFork/distribution/releases), however the download files only contain sources.
+### Regional Mirrors
+| Region | Stable (3.6) | Testing (3.7) |
+| -- | -- | -- |
+| New York | [Stable](https://www1.ny.steamfork.org/images/installer/steamfork-rel-latest-x86_64.iso) ([SHA256](https://www1.ny.steamfork.org/images/installer/steamfork-rel-latest-x86_64.iso.sha256)) | [Testing](https://www1.ny.steamfork.org/images/installer/steamfork-testing-latest-x86_64.iso) ([SHA256](https://www1.ny.steamfork.org/images/installer/steamfork-testing-latest-x86_64.iso.sha256)) |
+| Dallas | [Stable](https://www1.da.steamfork.org/images/installer/steamfork-rel-latest-x86_64.iso) ([SHA256](https://www1.da.steamfork.org/images/installer/steamfork-rel-latest-x86_64.iso.sha256)) | [Testing](https://www1.da.steamfork.org/images/installer/steamfork-testing-latest-x86_64.iso) ([SHA256](https://www1.da.steamfork.org/images/installer/steamfork-testing-latest-x86_64.iso.sha256)) |
+| San Jose | [Stable](https://www1.sj.steamfork.org/images/installer/steamfork-rel-latest-x86_64.iso) ([SHA256](https://www1.sj.steamfork.org/images/installer/steamfork-rel-latest-x86_64.iso.sha256)) | [Testing](https://www1.sj.steamfork.org/images/installer/steamfork-testing-latest-x86_64.iso) ([SHA256](https://www1.sj.steamfork.org/images/installer/steamfork-testing-latest-x86_64.iso.sha256)) |
+| Ashburn (1) | [Stable](https://www1.as.steamfork.org/images/installer/steamfork-rel-latest-x86_64.iso) ([SHA256](https://www1.as.steamfork.org/images/installer/steamfork-rel-latest-x86_64.iso.sha256)) | [Testing](https://www1.as.steamfork.org/images/installer/steamfork-testing-latest-x86_64.iso) ([SHA256](https://www1.as.steamfork.org/images/installer/steamfork-testing-latest-x86_64.iso.sha256)) |
+| Ashburn (2) | [Stable](https://www2.as.steamfork.org/images/installer/steamfork-rel-latest-x86_64.iso) ([SHA256](https://www2.as.steamfork.org/images/installer/steamfork-rel-latest-x86_64.iso.sha256)) | [Testing](https://www2.as.steamfork.org/images/installer/steamfork-testing-latest-x86_64.iso) ([SHA256](https://www2.as.steamfork.org/images/installer/steamfork-testing-latest-x86_64.iso.sha256)) |
+
+> Note: Release notes for stable versions are available on the [project's releases page](https://github.com/SteamFork/distribution/releases). Testing versions may include experimental features and are not guaranteed to be stable.
 
 ### Installation
 To install SteamFork, flash the bootable image to a USB device and then follow the procedure for your device to boot from removable media.  From the live mode desktop, open the "Install SteamFork" application and then follow the prompts to install to your device.  When complete, close the installer, and shut down the device.  Remove the installation media, and then power the device on to boot into SteamOS.
