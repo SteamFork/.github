@@ -17,11 +17,27 @@ SteamFork is a SteamOS-based operating system with improved hardware compatibili
 Review the device support [table](https://github.com/SteamFork#device-support) below along with our [Wiki](https://wiki.steamfork.org) for more information about our project.
 
 ## Screenshots
-### ASUS ROG Ally X
+### Ayn Loki Max
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/SteamFork/.github/main/profile/.images/20250403-allyx-1.jpg"/></td>
-    <td><img src="https://raw.githubusercontent.com/SteamFork/.github/main/profile/.images/20250403-allyx-2.jpg"/></td>
+    <td><img src="https://raw.githubusercontent.com/SteamFork/.github/main/profile/.images/20240609-max-1.jpg"/></td>
+    <td><img src="https://raw.githubusercontent.com/SteamFork/.github/main/profile/.images/20240609-max-2.jpg"/></td>
+  </tr>
+</table>
+
+### Ayaneo 2S
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/SteamFork/.github/main/profile/.images/20240525-2s-1.jpg"/></td>
+    <td><img src="https://raw.githubusercontent.com/SteamFork/.github/main/profile/.images/20240525-2s-2.jpg"/></td>
+  </tr>
+</table>
+
+### Ayaneo Flip KB
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/SteamFork/.github/main/profile/.images/20240525-flip-1.jpg"/></td>
+    <td><img src="https://raw.githubusercontent.com/SteamFork/.github/main/profile/.images/20240525-flip-2.jpg"/></td>
   </tr>
 </table>
 
