@@ -20,7 +20,7 @@ Review the device support [table](https://github.com/SteamFork#device-support) b
 ### ASUS ROG Ally X
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/SteamFork/.github/main/profile/.images/20250403-allyx-1.jpg"/></td>
+    <td><img src="https://raw.githubusercontent.com/SteamFork/.github/main/profile/.images/20250405-allyx-1.jpg"/></td>
     <td><img src="https://raw.githubusercontent.com/SteamFork/.github/main/profile/.images/20250403-allyx-2.jpg"/></td>
   </tr>
 </table>
