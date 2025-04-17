@@ -4,16 +4,13 @@ SteamFork is a SteamOS-based operating system with improved hardware compatibili
 
 ## End-of-Life Notice
 
-This project has been sunset and will reach its end of life on April 30, 2025. What this means:
+This project has been sunset and has reached its end of life. What this means:
 
-### Beginning April 16, 2025
 - No new features will be developed.
 - No bug fixes will be applied, including security issues.
 - No pull requests will be accepted.
-
-### On April 30, 2025
 - The project and all repositories will be archived and made read-only.
-- All build and hosting services will be powered down.
+- All build and hosting services will no longer be available.
 - Your device will continue to function as-is but it will no longer receive updates.
 
 We recommend migrating to SteamOS when it becomes generally available.
@@ -124,19 +121,9 @@ Sponsoring a device is a commitment to maintaining support for your device by va
 ## Downloads 
 Downloads are hosted at [SteamFork.org](https://www.steamfork.org/images/installer/) and updates are available OTA. Below are the download links for the stable (3.6) and testing (3.7) branches.
 
-| Branch       | Upstream Version | URL                                                                                                           | Checksum                                                                                                           |
+| Branch       | Upstream Version | Installation Image                                                                                                           | Source Code                                                                                                           |
 |--------------|------------------|---------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
-| **Stable**   | 3.6              | [![Stable](https://img.shields.io/github/release/SteamFork/distribution.svg?color=156C9C&label=Stable&style=flat-square)](https://www.steamfork.org/images/installer/steamfork-rel-latest-x86_64.iso) | [SHA256](https://www.steamfork.org/images/installer/steamfork-rel-latest-x86_64.iso.sha256)                       |
-| **Testing**  | 3.7              | [![Testing](https://img.shields.io/badge/Testing-Latest-156C9C?color=156C9C&style=flat-square)](https://www.steamfork.org/images/installer/steamfork-testing-latest-x86_64.iso) | [SHA256](https://www.steamfork.org/images/installer/steamfork-testing-latest-x86_64.iso.sha256)                   |
-
-### Regional Mirrors
-| Region       | Stable                                                                                                       | Testing                                                                                                       |
-|--------------|-------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
-| New York     | [Stable](https://www1.ny.steamfork.org/images/installer/steamfork-rel-latest-x86_64.iso) ([SHA256](https://www1.ny.steamfork.org/images/installer/steamfork-rel-latest-x86_64.iso.sha256)) | [Testing](https://www1.ny.steamfork.org/images/installer/steamfork-testing-latest-x86_64.iso) ([SHA256](https://www1.ny.steamfork.org/images/installer/steamfork-testing-latest-x86_64.iso.sha256)) |
-| Dallas       | [Stable](https://www1.da.steamfork.org/images/installer/steamfork-rel-latest-x86_64.iso) ([SHA256](https://www1.da.steamfork.org/images/installer/steamfork-rel-latest-x86_64.iso.sha256)) | [Testing](https://www1.da.steamfork.org/images/installer/steamfork-testing-latest-x86_64.iso) ([SHA256](https://www1.da.steamfork.org/images/installer/steamfork-testing-latest-x86_64.iso.sha256)) |
-| San Jose     | [Stable](https://www1.sj.steamfork.org/images/installer/steamfork-rel-latest-x86_64.iso) ([SHA256](https://www1.sj.steamfork.org/images/installer/steamfork-rel-latest-x86_64.iso.sha256)) | [Testing](https://www1.sj.steamfork.org/images/installer/steamfork-testing-latest-x86_64.iso) ([SHA256](https://www1.sj.steamfork.org/images/installer/steamfork-testing-latest-x86_64.iso.sha256)) |
-| Ashburn (1)  | [Stable](https://www1.as.steamfork.org/images/installer/steamfork-rel-latest-x86_64.iso) ([SHA256](https://www1.as.steamfork.org/images/installer/steamfork-rel-latest-x86_64.iso.sha256)) | [Testing](https://www1.as.steamfork.org/images/installer/steamfork-testing-latest-x86_64.iso) ([SHA256](https://www1.as.steamfork.org/images/installer/steamfork-testing-latest-x86_64.iso.sha256)) |
-| Ashburn (2)  | [Stable](https://www2.as.steamfork.org/images/installer/steamfork-rel-latest-x86_64.iso) ([SHA256](https://www2.as.steamfork.org/images/installer/steamfork-rel-latest-x86_64.iso.sha256)) | [Testing](https://www2.as.steamfork.org/images/installer/steamfork-testing-latest-x86_64.iso) ([SHA256](https://www2.as.steamfork.org/images/installer/steamfork-testing-latest-x86_64.iso.sha256)) |
+| **Stable**   | 3.6              | [Archive](https://archive.org/details/SteamFork) | [Sources (SteamFork)](https://archive.org/details/SteamFork-Sources) [Sources (SteamOS)](https://steamdeck-packages.steamos.cloud/archlinux-mirror/sources/)                      |
 
 > Note: Release notes for stable versions are available on the [project's releases page](https://github.com/SteamFork/distribution/releases). Testing versions may include experimental features and are not guaranteed to be stable.
 
